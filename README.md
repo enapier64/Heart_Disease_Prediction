@@ -63,7 +63,7 @@ Standardizing the data boosted performance, with the Random Forest classifier hi
 
 The Random Forest model outperformed others with an accuracy of 83.6%, showing the best balance of precision and recall. Logistic Regression and Gradient Boosting both achieved 80.3% accuracy, with Random Forest consistently leading in cross-validation scores and feature importance rankings. Highest importance features were found to be: max_hr, chest_pain_type, oldpeak, thal, and ca
 
-![](./images/model_performance.png)
+![](feature_importance.png)
 
 
 ## 8. Future Improvements
