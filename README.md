@@ -54,7 +54,7 @@ Exploratory Data Analysis (EDA) revealed strong associations between heart disea
 
 Standardizing the data boosted performance, with the Random Forest classifier hitting 83.6% accuracy versus 80.3% for logistic regression. The Random Forest also showed better precision and recall, particularly for the target class, making it a stronger model overall.
 
-![](./images/confusion_matrix.png)
+![](RF_Results.png)
 
 
 ## 6. Model Evaluation
