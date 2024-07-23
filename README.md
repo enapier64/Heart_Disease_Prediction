@@ -46,7 +46,7 @@ In the data preparation process, the primary tasks were to load, clean, and prep
 
 Exploratory Data Analysis (EDA) revealed strong associations between heart disease and variables such as chest pain type, exercise-induced angina, and the number of major vessels colored, with chi-square and Fisher's exact tests showing very low p-values. Additionally, correlations indicated significant relationships between maximum heart rate and old peak depression with heart disease, underscoring their potential as important predictors
 
-![](./images/eda_graphs.png)
+![](testing_heart_disease_heatmap.png)
 
 ## 5. Algorithms & Machine Learning
 
