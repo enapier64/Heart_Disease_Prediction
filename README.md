@@ -1,10 +1,8 @@
-##Capstone Two - Final Project Report
+## Capstone Two - Final Project Report
 
-##Problem Statement
+## Problem Statement
 
-To this day, heart disease remains the leading cause of death in the UNited States of America. One of the best ways to help reduce the number of heart disease related deaths each year is to develop better screening methods and improve early detection of the disease so that healthcare providers can take steps to improve health outcomes as early as possible. Advanced detection methods could really change how we handle heart disease. By catching issues earlier, these methods can not only help people get better care but also ease the strain on our healthcare systems by avoiding expensive treatments down the line. Therefore, allocating resources into these detection technologies could make a big difference in both patient experiences and overall healthcare costs. In my project, I hope to develop a model that can help accurate predict whether or not a patient will develop heart disease based several health metrics.
-
-##1. Data
+To this day, heart disease remains the leading cause of death in the United States of America. One of the best ways to help reduce the number of heart disease related deaths each year is to develop better screening methods and improve early detection of the disease so that healthcare providers can take steps to improve health outcomes as early as possible. Advanced detection methods could really change how we handle heart disease. By catching issues earlier, these methods can not only help people get better care but also ease the strain on our healthcare systems by avoiding expensive treatments down the line. Therefore, allocating resources into these detection technologies could make a big difference in both patient experiences and overall healthcare costs. In my project, I hope to develop a model that can help accurate predict whether or not a patient will develop heart disease based several health metrics.
 
 ## 1. Data
 
